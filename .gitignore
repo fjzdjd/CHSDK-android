@@ -20,7 +20,7 @@ build/
 .idea/
 
 # .iml files
-.iml
+CHSDK-android.iml
 
 # Local configuration file (sdk path, etc)
 local.properties
