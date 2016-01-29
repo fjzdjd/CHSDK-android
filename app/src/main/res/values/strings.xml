@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CHSDK</string>
+    <string name="exit_tips">再按一次，确认退出</string>
+
+    <string name="cube_ptr_pull_down">下拉刷新</string>
+    <string name="cube_ptr_pull_down_to_refresh">下拉刷新</string>
+    <string name="cube_ptr_release_to_refresh">释放刷新</string>
+    <string name="cube_ptr_refreshing">刷新...</string>
+    <string name="cube_ptr_refresh_complete">刷新</string>
+    <string name="cube_ptr_last_update">上次刷新:&#160;</string>
+    <string name="cube_ptr_seconds_ago">&#160;秒钟前</string>
+    <string name="cube_ptr_minutes_ago">&#160;分钟前</string>
+    <string name="cube_ptr_hours_ago">&#160;小时前</string>
+</resources>
